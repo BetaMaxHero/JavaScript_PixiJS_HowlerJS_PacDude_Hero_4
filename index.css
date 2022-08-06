@@ -1,0 +1,18 @@
+body {
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+/*	overflow-y: hidden; // hide vertical
+	overflow-x: hidden; // hide horizontal */
+	background-color: rgb(0, 0, 0);
+}
+
+canvas {
+    padding: 0;
+    margin: 0;
+}
+
+@font-face {
+  font-family: "FreeSans";
+  src: url("fonts/FreeSans.ttf");
+}
